@@ -24,7 +24,7 @@
 <br />
 
 > [!CAUTION]
-> **Code from a junior programmer, don't judge so much...**
+> **Super cool projects, be warned...**
 
 
 
