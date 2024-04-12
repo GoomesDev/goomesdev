@@ -12,7 +12,7 @@
 ### Stats
 <div>
 <a href="https://github.com/goomesdev">
-<img loading="lazy" height="190em" src="https://github-readme-stats.vercel.app/api?username=goomesdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img src="https://myreadme.vercel.app/api/embed/goomesdev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
 
 ### Say hi to me
