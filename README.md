@@ -10,12 +10,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
 </div>
 
-### Stats
-<div>
-<a href="https://github.com/goomesdev">
-<img src="https://myreadme.vercel.app/api/embed/goomesdev?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</div>
-
 ### Say hi to me
 <div>
 <a href = "mailto:henriquegomesdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
