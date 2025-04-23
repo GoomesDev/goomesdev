@@ -1,6 +1,5 @@
 ## 👋 Hello! Welcome! My name is Luiz Henrique!
 - 👔 I’m currently working on **Reciclare Editech** as a **Full Stack Developer**
-- 🎓 Currently studying postgraduate in **Software Engineering**
 - 📖 I’m currently learning more about **BACKEND** & **DATABASE**
 - ❓ Fun fact: **I started programming directly on my cell phone**
 
