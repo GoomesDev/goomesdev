@@ -2,7 +2,6 @@
 - 👔 I’m currently working on **Reciclare Editech** as a **Full Stack Developer**
 - 🎓 Technologist in **Systems Analysis and Development** from Centro Universitário UniAmérica
 - 🎓 **Postgraduate** degree in **Software Engineering** also from Centro Universitário UniAmérica
-- 📖 I’m currently learning more about **BACKEND** & **DATABASE**
 - ❓ Fun fact: **I started programming directly on my cell phone**
 
 ### Say hi to me
